@@ -1,0 +1,9 @@
+{
+  "name": "elasticSearch",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@elastic/elasticsearch": "^8.2.1"
+  }
+}
